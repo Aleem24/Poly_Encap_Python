@@ -15,5 +15,5 @@ class Car(Protected):
     
 obj = Car()
 
-print(obj._maxspeed)
+
 print(obj.display2())
